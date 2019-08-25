@@ -12,12 +12,19 @@
 .
 ├── 一款漏洞验证框架的构思 --> 文章设计图
 ├── FOFA --> FOFA平台
+├── paper --> 发布文章
 ├── Struts2 --> Struts2漏洞检测工具
 ├── Zabbix --> Zabbix检测工具
 └── Windows Terminal --> Windows Terminal 程序
 ```
 
 ## 更新日志
+
+2019-08-25
+
+```
+- 一款漏洞验证框架的构思.pdf
+```
 
 2019-08-22
 
