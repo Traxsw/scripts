@@ -10,46 +10,42 @@
 
 ```
 .
-├── 一款漏洞验证框架的构思 --> 文章设计图
-├── FOFA --> FOFA平台
-├── paper --> 发布文章
-├── Struts2 --> Struts2漏洞检测工具
-├── Zabbix --> Zabbix检测工具
-└── Windows Terminal --> Windows Terminal 程序
+├── FOFA
+├── Struts2
+├── Windows Terminal
+├── Zabbix
+├── flinkrce
+├── paper
+└── 一款漏洞验证框架的构思
 ```
 
 ## 更新日志
 
+2019-11-14
+
+- Flink RCE 代码
+- Flink 命令执行
+
 2019-10-21
 
-```
-- K最近邻算法
-```
+- 机器学习：K最近邻算法
 
 2019-08-25
 
-```
-- 一款漏洞验证框架的构思.pdf
-```
-
-2019-08-22
-
-```
 - 一款漏洞验证框架的构思
-```
 
 2019-05-09
 
-    - Windows Terminal 程序
+- Windows Terminal 
 
 2019-04-26
 
-    - 修改项目结构
-    
-    - 修复【FOFA】`fofa_spider.py` 重复爬虫一页
-    
-    - 修复【FOFA】`fofa_spider_ext.py` 重复爬虫一页
-    
-    - 添加【Struts2】Struts2-057检测工具
-    
-    - 添加【Zabbix】Zabbix检测工具
+- 修改项目结构
+
+- 修复【FOFA】`fofa_spider.py` 重复爬虫一页
+
+- 修复【FOFA】`fofa_spider_ext.py` 重复爬虫一页
+
+- 添加【Struts2】Struts2-057检测工具
+
+- 添加【Zabbix】Zabbix检测工具
