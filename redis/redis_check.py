@@ -7,11 +7,12 @@ import os
 
 host = "127.0.0.1"
 port = 6379
+password=""
 
 if __name__ == '__main__':
     while True:
         try:
-            r = redis.Redis(host=host, port=6379,socket_connect_timeout=1)
+            r = redis.Redis(host=host, port=6379, password=password, socket_connect_timeout=1)
             r.ping()
             print("[*] redis %s:%s running !"%(host,str(port),))
         except Exception as e:
