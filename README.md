@@ -14,12 +14,17 @@
 ├── Struts2
 ├── Windows Terminal
 ├── Zabbix
+├── redis
 ├── flinkrce
 ├── paper
 └── 一款漏洞验证框架的构思
 ```
 
 ## 更新日志
+
+2019-12-26
+
+- redis 检测存活工具
 
 2019-12-18
 
